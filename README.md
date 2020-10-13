@@ -2,7 +2,7 @@
 
 An app for getting desired food recipes with the use of a `search` bar. 
 
-We use [Edamam Food Search API](https://developer.edamam.com/edamam-recipe-api)  in *developer* mode which allows us to have 5000 API calls per month.
+[Edamam Food Search API](https://developer.edamam.com/edamam-recipe-api) is used here in *developer* mode which allows us to have 5000 API calls per month.
 
 
 
